@@ -15,8 +15,8 @@ On the other hand, the psychologist can register keywords they believe are impor
 [![image](https://user-images.githubusercontent.com/40741571/155040476-83ef50bc-3e00-473b-8433-7862e82a90e5.png)
 ](https://github.com/luccas-specht/SangueNovo-TCC-IFSul/blob/master/TCC_2021_LuccasSpecht_065640INFQ-mesclado_organized.pdf)
 
-## Figma Link:
-<a href="https://www.figma.com/design/LhO1FYQrRKIhrRj48n0j0o/TCC-IFSUL?node-id=0-1&t=WuKxBDgYHyEhi4eE-1" target="_blank"> Figma </a>
+## Figma Screens:
+<h3> <a href="https://www.figma.com/design/LhO1FYQrRKIhrRj48n0j0o/TCC-IFSUL?node-id=0-1&t=WuKxBDgYHyEhi4eE-1" target="_blank"> Link to figma </a> </h3> 
 
 ## Feature demo on Youtube
 [![image](https://github.com/luccas-specht/SangueNovo-TCC-IFSul/blob/master/readme-apresentation.png)](https://www.youtube.com/watch?v=DwRFsjTvamk)
